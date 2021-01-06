@@ -1,0 +1,53 @@
+header {
+  color: #000000;
+}
+
+body {
+  color: dodgerblue;
+}
+
+p {
+ color: black;
+
+}
+
+h1 {
+  color: #604963;
+}
+
+h2 {
+  color: #096280;
+}
+
+h3 {
+  color: #688780;
+}
+
+ul {
+  color: #a04901;
+}
+
+a {
+  color: #09a8d4;
+
+}
+
+img {
+  border-style: dotted;
+  border-color: #604901;
+}
+
+aside {
+  border-spacing: 1em .5em;
+  padding: 1em 2em 1em;
+  border: 3px dotted gray;
+  background-color: turquoise;
+
+}
+
+footer {
+  background-color: #eeeeee;
+  border-style: double;
+  border-color: #bbbbbb;
+
+}
