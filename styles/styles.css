@@ -5,6 +5,7 @@
   background-color: #fc4a1a;
   height: 2rem;
   padding: 5rem 0rem 8rem 2rem;
+  font-family: 'Rock Salt', cursive;
 }
 
 .main-nav {
@@ -31,24 +32,31 @@ a {
 }
 
 h1 {
-  font-size: 28px;
+  font-size: 32px;
   padding-left: 2rem;
+  font-family: 'Kalam', cursive;
 }
 
 h2 {
   padding-left: 2rem;
+  font-size: 26px;
 }
 
 h3 {
+  font-size: 24px;
   padding-left: 2rem;
+  font-family: 'Kalam', cursive;
 }
 
 p {
   padding-left: 2rem;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
 }
 
 .unordered {
   padding-left: 4rem;
+  font-family: 'Open Sans', sans-serif;
 }
 
 .main-cards {
@@ -93,7 +101,7 @@ p {
 .aside-main {
   background: #4abdac;
   padding: 2rem 3rem;
-  margin-left: 4rem;
+  margin-left: 5rem;
   margin-right: 8rem;
 }
 
@@ -101,13 +109,13 @@ p {
 .aside-two {
   background: #4abdac;
   padding: 2rem 3rem;
-  margin-left: 4rem;
+  margin-left: 5rem;
   margin-right: 8rem;
 }
 
 
 .footer-main {
-  font-size: 18px;
+  font-size: 16px;
   background-color: #dfdce3;
   padding: 5rem;
   margin-top: 2rem;
